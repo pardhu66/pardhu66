@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Traffic forcasting with Neural Networks**
 
-- 👨‍💻 All of my projects are available at [www.pardhuportfolio.com](www.pardhuportfolio.com)
-
 - 💬 Ask me about **NN and Data Analytics**
 
 - 📫 How to reach me **pardhugolamaru@gmail.com**
